@@ -48,10 +48,9 @@ Deployed the application on the restaurant server, ensuring stable, secure, and 
 
 ## 🎬 Live Demo
 
-Watch the application in action:
+Watch the application demo here:
 
-🔗 **Demo Video:**  
-https://vimeo.com/1163326267
+[![Watch the video](https://github.com/nadaomri12/projectpfa2024/blob/master/screenshot.png)](https://vimeo.com/1163326267)
 
 ---
 
