@@ -50,7 +50,7 @@ Deployed the application on the restaurant server, ensuring stable, secure, and 
 
 Watch the application demo here:
 
-[![Watch the video](https://github.com/nadaomri12/projectpfa2024/blob/master/screenshot.png)](https://vimeo.com/1163326267)
+[![Watch the video](FastFood.png)](https://vimeo.com/1163326267)
 
 ---
 
