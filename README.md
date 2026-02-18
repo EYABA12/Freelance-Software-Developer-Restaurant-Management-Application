@@ -21,28 +21,27 @@ Developed a complete restaurant management web application for a client, designe
 
 ## 🚀 Key Responsibilities & Achievements
 
-💻 **Designed & Developed**  
+**Designed & Developed**  
 Built a full-stack restaurant management web application using **Angular (frontend)** and **Spring Boot (backend)**.
 
-🔗 **RESTful APIs**  
+ **RESTful APIs**  
 Developed RESTful APIs following **object-oriented design principles (OOP)**.
 
-🔒 **Security Implementation**  
+**Security Implementation**  
 Implemented **Spring Security with JWT authentication** to ensure access is restricted to authenticated users only.
 
-⚙️ **Role-Based Access Control (RBAC)**  
+ **Role-Based Access Control (RBAC)**  
 Secured API endpoints with role-based access control (**Admin, Staff**).
+**Automation**  
+Created a script to automatically launch the application in full-screen mode when the restaurant PC starts.
 
-💾 **Automation**  
-Created a startup script to automatically launch the application in full-screen mode when the restaurant PC starts.
-
-🐳 **Dockerization**  
+**Dockerization**  
 Containerized the full application using **Docker and Docker Compose** for reliable deployment and portability.
 
-🗄️ **Database Containerization**  
+**Database Containerization**  
 Exported and deployed the MySQL database inside a Docker container with persistent volumes to ensure data durability.
 
-🚀 **Deployment**  
+ **Deployment**  
 Deployed the application on the restaurant server, ensuring stable, secure, and continuous operation.
 
 ---
