@@ -1,102 +1,62 @@
 # 🍽️ Restaurant Management Application  
 ### Freelance Software Development Project
 
-## 📌 Project Overview
+## 📌 Project Description
 
-This project was developed for a restaurant client to digitalize and automate daily operations.
-
-I designed and developed a complete web-based restaurant management system to improve order handling, security, and operational efficiency.
-
-The application is currently deployed and actively used in the restaurant environment.
+Developed a complete restaurant management web application for a client, designed to streamline daily operations and improve efficiency.
 
 ---
+## 🛠 Skills & Technologies
 
-## 💻 System Architecture
-
-- Frontend developed using **Angular**
-- Backend developed using **Spring Boot**
-- Communication via **RESTful APIs**
-- Secure authentication using **JWT**
-- Deployed on the restaurant’s local server
-
----
-
-## 🚀 Key Features
-
-### 🧾 Order Management
-- Create and manage customer orders
-- Real-time order tracking
-- Automatic ticket generation
-
-### 🖨️ Hardware Integration
-- Integrated with a **thermal printer**
-- Automatic printing of customer order tickets
-- Optimized for kitchen workflow
-
-### 🔒 Security & Access Control
-- Implemented **Spring Security with JWT authentication**
-- Role-based access control:
-  - 👑 Admin
-  - 👨‍🍳 Staff
-- Secured API endpoints
-
-### ⚙️ Automation
-- Created a startup script to automatically:
-  - Launch the application
-  - Open it in full-screen mode
-  - Ensure smooth daily usage when the restaurant PC starts
-
----
-
-## 🐳 DevOps & Deployment
-
-- Containerized using **Docker**
-- Managed multi-container setup with **Docker Compose**
-- Deployed on the restaurant server
-- Ensured stable, secure, and reliable production environment
-
----
-
-## 🛠 Technologies Used
-
-### 🎨 Frontend
 - Angular
-- TypeScript
-- Bootstrap
-
-### ⚙ Backend
 - Spring Boot
 - Spring Security
 - JWT Authentication
 - RESTful APIs
-- Object-Oriented Design (OOP)
-
-### 🗄 Database
 - MySQL
-
-### 🐳 DevOps
 - Docker
 - Docker Compose
-
-### 🔧 Tools & Practices
 - Git
-- Agile approach
-- Client requirement analysis
-- Production deployment
+- Object-Oriented Programming (OOP)
+
+## 🚀 Key Responsibilities & Achievements
+
+💻 **Designed & Developed**  
+Built a full-stack restaurant management web application using **Angular (frontend)** and **Spring Boot (backend)**.
+
+🔗 **RESTful APIs**  
+Developed RESTful APIs following **object-oriented design principles (OOP)**.
+
+🔒 **Security Implementation**  
+Implemented **Spring Security with JWT authentication** to ensure access is restricted to authenticated users only.
+
+⚙️ **Role-Based Access Control (RBAC)**  
+Secured API endpoints with role-based access control (**Admin, Staff**).
+
+🖨️ **Hardware Integration**  
+Integrated the system with a **thermal printer** to automatically print customer order tickets.
+
+💾 **Automation**  
+Created a startup script to automatically launch the application in full-screen mode when the restaurant PC starts.
+
+🐳 **Dockerization**  
+Containerized the full application using **Docker and Docker Compose** for reliable deployment and portability.
+
+🗄️ **Database Containerization**  
+Exported and deployed the MySQL database inside a Docker container with persistent volumes to ensure data durability.
+
+🚀 **Deployment**  
+Deployed the application on the restaurant server, ensuring stable, secure, and continuous operation.
 
 ---
 
-## 🎯 Project Impact
+## 🎬 Live Demo
 
-- Reduced manual order management
-- Improved kitchen workflow efficiency
-- Enhanced security with authenticated access
-- Provided a reliable and automated system for daily restaurant operations
-- Delivered a production-ready solution tailored to the client’s needs
+Watch the application in action:
+
+🔗 **Demo Video:**  
+https://vimeo.com/1163326267
 
 ---
 
-## 👩‍💻 Role
 
-Freelance Full-Stack Developer  
-Responsible for system design, development, deployment, hardware integration, and client delivery.
