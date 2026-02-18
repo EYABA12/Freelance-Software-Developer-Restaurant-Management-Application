@@ -33,9 +33,6 @@ Implemented **Spring Security with JWT authentication** to ensure access is rest
 ⚙️ **Role-Based Access Control (RBAC)**  
 Secured API endpoints with role-based access control (**Admin, Staff**).
 
-🖨️ **Hardware Integration**  
-Integrated the system with a **thermal printer** to automatically print customer order tickets.
-
 💾 **Automation**  
 Created a startup script to automatically launch the application in full-screen mode when the restaurant PC starts.
 
