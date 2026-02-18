@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Management Application  
+#  Restaurant Management Application  
 ### Freelance Software Development Project
 
 ## 📌 Project Description
